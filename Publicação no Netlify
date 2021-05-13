@@ -1,0 +1,7 @@
+Publicação no Netlify
+Comando: yarn build
+Diretório: build
+Deploy! (vai quebrar)
+Site settings -> Build & Deploy: (colocar o nome da sua subpasta do projeto frontend)
+Site settings -> Domain Management: (colocar o nome que você quiser)
+Deploys -> Trigger deploy
